@@ -1,0 +1,61 @@
+body {
+    background: url(http://www.otomiya.com/sozai/bg/cut/sky01.jpg);
+    text-align: center;
+}
+
+.col {
+    width: 20%;
+    height: 400px;
+    background: white;
+    display: inline-block;
+    margin: 50px 6px;
+}
+
+.price-box {
+    width: 100%;
+    height: 200px;
+    background: navy;
+    color: white;
+}
+
+.plan-text {
+    text-align: center;
+    padding: 20px 0px;
+    font-size: 20px;
+}
+
+.price-text * {
+    display: inline-block;
+}
+
+.price-text {
+    text-align: center;
+}
+
+.amount {
+    font-size: 50px;
+}
+
+.doller {
+    vertical-align: top;
+    padding-top: 8px;
+}
+
+.btn-box {
+    text-align: center;
+    border: 2px solid white;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 6px 0px;
+    font-size: 13px;
+    border-radius: 6px;
+    margin-top: 20px;
+}
+
+.fa {
+    padding: 10px 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
